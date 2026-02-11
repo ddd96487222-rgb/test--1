@@ -211,6 +211,22 @@
  right: 230px;
 
 }
+.logooo{
+    border: 1px solid gray;
+    padding: 10px;
+}
+.logoo-1{
+    align-items: center;
+    justify-content: center;
+}
+.logooo-4{
+     border: 1px solid gray;
+    padding: 18px;
+}
+.txt-6{
+    font-size: 50px;
+    margin: 50px 170px;
+}
 @media(max-width:511px){
     .none{
         display: none;
