@@ -211,6 +211,69 @@
  right: 230px;
 
 }
+.logooo{
+    border: 1px solid gray;
+    padding: 10px;
+}
+.logoo-1{
+    align-items: center;
+    justify-content: center;
+}
+.logooo-4{
+     border: 1px solid gray;
+    padding: 18px;
+}
+.txt-6{
+    font-size: 50px;
+    margin: 50px 170px;
+}
+.frr{
+
+
+    display: flex;
+    align-items: center;
+}
+.fr{
+    border:1px solid black ;
+   
+}
+.fr-1{
+    padding: 11.5px 0px;
+}
+.fr-2{
+    padding: 32.5px 5px;
+}
+.frontent{
+    margin: 50px;
+}
+.bc{
+    border:1px solid black ;
+    width: 150px;
+}
+.bc-1{
+    padding: 24px;
+}
+.bcc{
+    display: flex;
+    align-items: center;
+    
+}
+.backand{
+    margin: 50px;
+}
+.vh{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.tamom-vh-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.grr{
+    margin: 20px 150px;
+}
 @media(max-width:511px){
     .none{
         display: none;
