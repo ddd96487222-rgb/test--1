@@ -274,6 +274,28 @@
 .grr{
     margin: 20px 150px;
 }
+.vh-8-text{
+    align-items: center;
+    justify-content: space-between;
+     margin: 20px 150px;
+}
+.vhh-8{
+    width: 300px;
+    border: 1px solid gray;
+    padding: 40px;
+    
+}
+.vhh-8 img{
+    width: 300px;
+}
+.vh-8-box{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.aaa{
+   
+}
 @media(max-width:511px){
     .none{
         display: none;
@@ -299,6 +321,7 @@
     .icon{
         display: block;
     }
+    
     .vh-2{
         flex-direction: column;
         justify-content: center;
@@ -336,19 +359,18 @@
         flex-direction: column;
     }
     .border{
-        padding: 20px;
+        padding: 10px;
         margin:50px auto;
     }
     .txt-foto{
-        width: 350px;
-        height: 350px;
-      
+        width: 300px ;
+        height: 300px;
     }
     .txt-foto{
-        margin: 20px;
+        margin: 50px;
     }
     .iconn-1{
-        right: -30px;
+        right: -15px;
         width: 70px;
         top: 180px;
     }
@@ -358,9 +380,9 @@
         top: -40px;
     }
     .iconn-3{
-        left: -30px;
+        left: -15px;
         width: 70px;
-        top: 180px;
+        top: 190px;
     }
     .iconn-4{
         right: 190px;
@@ -370,4 +392,30 @@
     .vh-5{
        margin: 50px 0px;
     } 
+    .vh-5-text{
+        width: 95%;
+    }
+    .logoo-1 {
+        overflow: auto;
+    }
+    .vh,.tamom-vh-1{
+    flex-direction: column;
+    
+    }
+    .txt-6{
+        margin: 0px;
+    }
+    .txt-5{
+        margin: 60px;
+    }
+    .vh-8-box{
+        overflow:scroll;
+    }
+     .aaa{
+        margin: 10px;
+     }  
+     .vh-8-text{
+        margin: 10px;
+     } 
+    
 }
